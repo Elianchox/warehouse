@@ -1,0 +1,10 @@
+.container-clients{
+    display: grid;
+    place-items: center;
+}
+
+.container-clients img{
+    width: 80%;
+    max-width: 400px;
+    border-radius: 20px;
+}

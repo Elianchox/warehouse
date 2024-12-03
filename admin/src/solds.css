@@ -1,0 +1,10 @@
+.container-solds{
+    display: grid;
+    place-items: center;
+}
+
+.container-solds img{
+    width: 80%;
+    max-width: 400px;
+    border-radius: 20px;
+}
